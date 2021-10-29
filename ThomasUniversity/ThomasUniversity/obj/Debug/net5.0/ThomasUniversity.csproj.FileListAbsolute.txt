@@ -168,3 +168,4 @@
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Students/Details.cshtml.g.cs
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Students/Edit.cshtml.g.cs
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Students/Index.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/About.cshtml.g.cs
