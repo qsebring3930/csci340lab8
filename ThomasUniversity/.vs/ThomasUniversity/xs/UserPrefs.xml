@@ -1,30 +1,23 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Courses/Details.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Instructors/Create.cshtml.cs">
     <Files>
-      <File FileName="ThomasUniversity/Pages/Courses/Edit.cshtml.cs" Line="74" Column="1" />
-      <File FileName="ThomasUniversity/Pages/Courses/Edit.cshtml" Line="35" Column="91" />
-      <File FileName="ThomasUniversity/Pages/Courses/Delete.cshtml.cs" Line="35" Column="52" />
-      <File FileName="ThomasUniversity/Pages/Courses/Details.cshtml.cs" Line="34" Column="53" />
-      <File FileName="ThomasUniversity/Pages/Courses/Delete.cshtml" Line="37" Column="68" />
-      <File FileName="ThomasUniversity/Pages/Courses/Details.cshtml" Line="30" Column="76" />
+      <File FileName="ThomasUniversity/Pages/Instructors/Create.cshtml.cs" Line="22" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ThomasUniversity" expanded="True">
             <Node name="ThomasUniversity" expanded="True">
-              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="SchoolViewModels" expanded="True" />
               </Node>
               <Node name="Pages" expanded="True">
-                <Node name="Courses" expanded="True">
-                  <Node name="Delete.cshtml" expanded="True" />
-                  <Node name="Details.cshtml" expanded="True" selected="True" />
-                  <Node name="Edit.cshtml" expanded="True" />
-                </Node>
                 <Node name="Instructors" expanded="True">
-                  <Node name="Index.cshtml" expanded="True" />
+                  <Node name="Create.cshtml" expanded="True">
+                    <Node name="Create.cshtml.cs" selected="True" />
+                  </Node>
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
                 </Node>
               </Node>
             </Node>
