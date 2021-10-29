@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Models/Student.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Students/Index.cshtml">
     <Files>
-      <File FileName="ThomasUniversity/Models/Student.cs" Line="12" Column="53" />
+      <File FileName="ThomasUniversity/Pages/Students/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,12 +9,10 @@
           <Node name="ThomasUniversity" expanded="True">
             <Node name="ThomasUniversity" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Student.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Students" expanded="True">
-                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" selected="True" />
                 </Node>
                 <Node name="Index.cshtml" expanded="True" />
               </Node>
