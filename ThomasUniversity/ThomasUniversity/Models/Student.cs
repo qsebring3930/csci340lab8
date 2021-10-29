@@ -10,6 +10,7 @@ namespace ThomasUniversity.Models
         public string FirstMidName { get; set; }
         public int Age { get; set; }
         public DateTime EnrollmentDate { get; set; }
+        public string Secret { get; set; }
 
         public ICollection<Enrollment> Enrollments { get; set; }
     }
