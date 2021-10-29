@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Models/Course.cs">
+    <Files>
+      <File FileName="ThomasUniversity/appsettings.json" Line="1" Column="1" />
+      <File FileName="ThomasUniversity/Pages/Shared/_Layout.cshtml" Line="35" Column="30" />
+      <File FileName="ThomasUniversity/Pages/Index.cshtml" Line="8" Column="64" />
+      <File FileName="ThomasUniversity/Models/Student.cs" Line="11" Column="35" />
+      <File FileName="ThomasUniversity/Models/Enrollment.cs" Line="6" Column="28" />
+      <File FileName="ThomasUniversity/Models/Course.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThomasUniversity" expanded="True">
+            <Node name="ThomasUniversity" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Course.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ThomasUniversity FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
