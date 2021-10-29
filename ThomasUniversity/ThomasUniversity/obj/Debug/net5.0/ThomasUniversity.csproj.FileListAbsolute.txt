@@ -169,3 +169,8 @@
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Students/Edit.cshtml.g.cs
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Students/Index.cshtml.g.cs
 /Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/About.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Create.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Delete.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Details.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Edit.cshtml.g.cs
+/Users/qsebring/Documents/csci340lab8/ThomasUniversity/ThomasUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Index.cshtml.g.cs

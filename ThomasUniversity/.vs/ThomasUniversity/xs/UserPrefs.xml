@@ -1,18 +1,23 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Data/DbInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Courses/Index.cshtml">
     <Files>
       <File FileName="ThomasUniversity/Data/SchoolContext.cs" Line="30" Column="75" />
-      <File FileName="ThomasUniversity/Data/DbInitializer.cs" Line="1" Column="1" />
+      <File FileName="ThomasUniversity/Data/DbInitializer.cs" Line="198" Column="15" />
+      <File FileName="ThomasUniversity/Pages/Courses/Index.cshtml.cs" Line="29" Column="32" />
+      <File FileName="ThomasUniversity/Pages/Courses/Index.cshtml" Line="5" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ThomasUniversity" expanded="True">
             <Node name="ThomasUniversity" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="DbInitializer.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Courses" expanded="True">
+                  <Node name="Index.cshtml" expanded="True" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
