@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ContosoUniversity.Data;
+using ThomasUniversity.Data;
 using ThomasUniversity.Models;
 
 namespace ThomasUniversity.Pages.Students
 {
     public class IndexModel : PageModel
     {
-        private readonly ContosoUniversity.Data.SchoolContext _context;
+        private readonly ThomasUniversity.Data.SchoolContext _context;
 
-        public IndexModel(ContosoUniversity.Data.SchoolContext context)
+        public IndexModel(ThomasUniversity.Data.SchoolContext context)
         {
             _context = context;
         }
@@ -23,7 +23,7 @@ namespace ThomasUniversity.Pages.Students
 
         public async Task OnGetAsync()
         {
-            Student = await _context.Student.ToListAsync();
+            Student = await _context.Students.ToListAsync();
         }
     }
 }

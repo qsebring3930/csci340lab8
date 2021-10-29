@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ThomasUniversity.Models;
 
-namespace ContosoUniversity.Data
+namespace ThomasUniversity.Data
 {
     public class SchoolContext : DbContext
     {
@@ -14,6 +14,15 @@ namespace ContosoUniversity.Data
         {
         }
 
-        public DbSet<ThomasUniversity.Models.Student> Student { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Enrollment> Enrollments { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Course>().ToTable("Course");
+            modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
+            modelBuilder.Entity<Student>().ToTable("Student");
+        }
     }
 }

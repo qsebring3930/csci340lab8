@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using ContosoUniversity.Data;
+using ThomasUniversity.Data;
 
 namespace ThomasUniversity
 {
@@ -29,6 +29,8 @@ namespace ThomasUniversity
 
             services.AddDbContext<SchoolContext>(options =>
                     options.UseSqlite(Configuration.GetConnectionString("SchoolContext")));
+
+            services.AddDatabaseDeveloperPageExceptionFilter();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,6 +39,7 @@ namespace ThomasUniversity
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseMigrationsEndPoint();
             }
             else
             {
