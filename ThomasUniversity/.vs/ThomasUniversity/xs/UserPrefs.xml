@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Data/DbInitializer.cs">
+    <Files>
+      <File FileName="ThomasUniversity/Data/SchoolContext.cs" Line="30" Column="75" />
+      <File FileName="ThomasUniversity/Data/DbInitializer.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ThomasUniversity" expanded="True">
             <Node name="ThomasUniversity" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Enrollment.cs" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DbInitializer.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
