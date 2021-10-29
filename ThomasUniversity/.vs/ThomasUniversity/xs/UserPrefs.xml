@@ -4,7 +4,15 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ThomasUniversity" expanded="True">
-            <Node name="ThomasUniversity" expanded="True" />
+            <Node name="ThomasUniversity" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Departments" expanded="True">
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Utility.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
