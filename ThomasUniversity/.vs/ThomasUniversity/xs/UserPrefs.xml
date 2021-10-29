@@ -1,26 +1,10 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Instructors/Create.cshtml.cs">
-    <Files>
-      <File FileName="ThomasUniversity/Pages/Instructors/Create.cshtml.cs" Line="22" Column="10" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ThomasUniversity" expanded="True">
-            <Node name="ThomasUniversity" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="SchoolViewModels" expanded="True" />
-              </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="Instructors" expanded="True">
-                  <Node name="Create.cshtml" expanded="True">
-                    <Node name="Create.cshtml.cs" selected="True" />
-                  </Node>
-                  <Node name="Delete.cshtml" expanded="True" />
-                  <Node name="Edit.cshtml" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
+            <Node name="ThomasUniversity" expanded="True" />
           </Node>
         </State>
       </Pad>
