@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{26733B1B-B3EC-4444-A480-77F7B1850B00}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Models/SchoolViewModels/InstructorIndexData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThomasUniversity/Pages/Courses/Details.cshtml">
     <Files>
-      <File FileName="ThomasUniversity/Models/SchoolViewModels/InstructorIndexData.cs" Line="14" Column="2" />
+      <File FileName="ThomasUniversity/Pages/Courses/Edit.cshtml.cs" Line="74" Column="1" />
+      <File FileName="ThomasUniversity/Pages/Courses/Edit.cshtml" Line="35" Column="91" />
+      <File FileName="ThomasUniversity/Pages/Courses/Delete.cshtml.cs" Line="35" Column="52" />
+      <File FileName="ThomasUniversity/Pages/Courses/Details.cshtml.cs" Line="34" Column="53" />
+      <File FileName="ThomasUniversity/Pages/Courses/Delete.cshtml" Line="37" Column="68" />
+      <File FileName="ThomasUniversity/Pages/Courses/Details.cshtml" Line="30" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,11 +15,14 @@
             <Node name="ThomasUniversity" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="SchoolViewModels" expanded="True">
-                  <Node name="InstructorIndexData.cs" selected="True" />
-                </Node>
+                <Node name="SchoolViewModels" expanded="True" />
               </Node>
               <Node name="Pages" expanded="True">
+                <Node name="Courses" expanded="True">
+                  <Node name="Delete.cshtml" expanded="True" />
+                  <Node name="Details.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                </Node>
                 <Node name="Instructors" expanded="True">
                   <Node name="Index.cshtml" expanded="True" />
                 </Node>
